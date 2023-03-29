@@ -1,6 +1,6 @@
 # WebAgendaAsp.Net
 
-Projeto de um pequeno sistema para agendamentos de procedimentos estéticos, com intuitivo de estudar e praticar 
+Projeto de um pequeno sistema para agendamentos de procedimentos estéticos, com intuito de estudar e praticar 
 ASP.NET C# / Entity Framework / Code First / Injeção de dependência / Telerik.
 
 Composto por:
