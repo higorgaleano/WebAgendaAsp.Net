@@ -5,7 +5,7 @@ ASP.NET C# / Entity Framework / Code First / Injeção de dependência / Telerik
 
 Composto por:
 
-Tela de cadastro e exibição de clientes
-Tela de cadastro e exibição de procedimentos
-Tela de agendamentos
-Campos com alguns dados sobre faturamento dos procedimentos concluídos.
+- Tela de cadastro e exibição de clientes
+- Tela de cadastro e exibição de procedimentos
+- Tela de agendamentos
+- Campos com alguns dados sobre faturamento dos procedimentos concluídos.
