@@ -18,7 +18,7 @@ namespace WebAgendaCodeFirst.Models
         // provedor e string de conexão
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=WebAgendaCodeFirst;Integrated Security=true");
+            optionsBuilder.UseSqlServer("//db local");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
